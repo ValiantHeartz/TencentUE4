@@ -28,3 +28,9 @@
 3、完善结算流程
 链接：链接：https://pan.baidu.com/s/1aLjEp0Yo5dQuLtV_gCe-RQ 
 提取码：v7bq
+
+第八次作业
+更新内容：
+1、添加粒子和透明效果
+链接：链接：https://pan.baidu.com/s/1Ocw6Mkm07_vkfyc_9YaAyA 
+提取码：ixs5
